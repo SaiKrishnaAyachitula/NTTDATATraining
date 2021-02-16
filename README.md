@@ -1,0 +1,2 @@
+# NTTDATATraining
+for learning purpose
